@@ -1,5 +1,5 @@
-# Active-Directory-OUs-creation.
-Creating and deleting organizational unit in Active Directory 
+# Active-Directory-OUs-modifications.
+Managing Organizational Units (OUs) in Active Directory, including their creation and deletion.
 
 <h1>Description</h1>
 The project involves the management of Organization Units (OUs) in Active Directory, encompassing tasks such as adding and removing OUs, as well as navigating through Active Directory's accidental protection features.
