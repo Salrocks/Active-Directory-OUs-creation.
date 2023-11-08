@@ -16,7 +16,7 @@ The project involves the management of Organization Units (OUs) in Active Direct
 <p align="center">
 
 Active Directory is a crucial element in network security. To access it, you need to sign in as an administrator, granting access to powerful actions unavailable to regular users. Once opened, Active Directory appears as follows: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9T1O4m5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 On the left side, you'll find various folders called Organizational Units (OUs), serving as containers for categorizing users and machines. Opening any OU reveals its contained users, which can be edited. Administrators have the authority to create, delete, and modify users within OUs. For instance, let's explore the THM and IT OUs. On the right side, you'll see the users linked to the IT group.<br/>
