@@ -25,15 +25,15 @@ On the left side, you'll find various folders called Organizational Units (OUs),
 <br />
 As a side note, Windows creates some default OUs on the left side, including Builtin, Computers, Domain Controllers, Users, and Managed Service Accounts. These OUs serve specific purposes:
 
-Builtin: Contains default groups for any Windows host. <br>
-Computers: Where new network machines are initially placed, but you can move them as needed.<br>
-Domain Controllers: Houses the default OUs for domain controllers. <br>
-Users: Contains default users and groups that apply domain-wide. <br>
-Managed Service Accounts: Holds accounts used by Windows domain services. <br/>
+- Builtin: Contains default groups for any Windows host. <br>
+- Computers: Where new network machines are initially placed, but you can move them as needed.<br>
+- Domain Controllers: Houses the default OUs for domain controllers. <br>
+- Users: Contains default users and groups that apply domain-wide. <br>
+- Managed Service Accounts: Holds accounts used by Windows domain services. <br/>
 <img src="https://i.imgur.com/fF0zntS.png" height="80%" width="80%" alt="OU modification"/>
 <br />
 <br />
-Returning to the OUs on the left side, creating a new OU is a straightforward process. You can do this by right-clicking, selecting "New," and then choosing "Organizational Unit" from the available options, as illustrated below. <br/>
+Returning to the OUs on the left side, creating a new OU is a straightforward process. You can do this by right-clicking, selecting "New," and then choosing "Organizational Unit" from the available options, as illustrated below. <br/> 
 <img src="https://i.imgur.com/3J0Zild.png" height="80%" width="80%" alt="OU modification"/>
 <br />
 <br />
@@ -80,6 +80,7 @@ After clicking "Yes," you'll encounter a warning prompt. After a thorough review
 <img src="https://i.imgur.com/7NvkPCg.png" height="80%" width="80%" alt="OU modification"/>
 </p>
 To confirm, check the left-hand side, and you'll notice that the "Research and Development" OU is no longer present. <br/>
+<br />
 <img src="https://i.imgur.com/oArbuji.png" height="80%" width="80%" alt="OU modification"/>
 </p>
 
